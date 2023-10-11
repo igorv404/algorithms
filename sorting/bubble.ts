@@ -1,4 +1,4 @@
-function bubbleSort(array: number[]) {
+function bubble(array: number[]) {
   for (let i = 0; i < array.length; i++) {
     for (let j = 0; j < array.length - i; j++) {
       const current = array[j];
