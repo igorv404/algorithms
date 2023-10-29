@@ -18,6 +18,6 @@ code, please open an issue.
 Before running the code you need:
 
 - Download a [Node.js](https://nodejs.org)
-- Download TypeScript using command `npm install typescript --save-dev`
+- Download TypeScript using command `npm install -g typescript`
 - Recompile TypeScript code to JavaScript code using command `npx tsc filename.ts`
 - Run JavaScript code using command `node filename.js`
