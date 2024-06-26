@@ -15,7 +15,7 @@ code, please open an issue.
 
 ## Get started
 
-Before running the code you need:
+To run the code you need:
 
 - Download a [Node.js](https://nodejs.org)
 - Download TypeScript using command `npm install -g typescript`
